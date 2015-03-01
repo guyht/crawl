@@ -1,0 +1,1 @@
+../../../bower_components/react/JSXTransformer.js
