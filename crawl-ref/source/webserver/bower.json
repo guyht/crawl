@@ -1,0 +1,21 @@
+{
+  "name": "crawl-ref",
+  "version": "1.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-plugins": "~1.0.3",
+    "jquery": "~2.1.3",
+    "jquery.browser": "~0.0.7",
+    "react": "~0.12.2",
+    "text": "~2.0.14",
+    "requirejs": "~2.1.16",
+    "react-bootstrap": "~0.16.0"
+  }
+}

@@ -95,6 +95,8 @@ macro.txt
 /source/webserver/game_data/static/tileinfo-*.js
 /source/webserver/static/stone_soup_icon-32x32.png
 /source/webserver/static/title_*.png
+/source/webserver/node_modules
+/source/webserver/bower_components
 
 # Makefile-generated junk
 makefile.dep
